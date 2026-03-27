@@ -7,7 +7,8 @@ An interactive Power BI dashboard that provides a comprehensive overview of e-co
 
 ## 🖼️ Dashboard Preview
 
-![E-commerce Sales Dashboard](./1774609053305_image.png)
+<img width="969" height="541" alt="image" src="https://github.com/user-attachments/assets/92968b01-4e11-4834-a67e-5e486789e01a" />
+
 
 ---
 
