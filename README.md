@@ -7,7 +7,7 @@ An interactive Power BI dashboard that provides a comprehensive overview of e-co
 
 ## 🖼️ Dashboard Preview
 
-<img width="969" height="541" alt="image" src="https://github.com/user-attachments/assets/92968b01-4e11-4834-a67e-5e486789e01a" />
+<img width="967" height="544" alt="image" src="https://github.com/user-attachments/assets/b04d8f07-cd12-446a-bede-632cb14caf64" />
 
 
 ---
